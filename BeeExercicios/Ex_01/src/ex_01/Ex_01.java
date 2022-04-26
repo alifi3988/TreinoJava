@@ -1,7 +1,6 @@
 
 package ex_01;
 
-import java.io.SyncFailedException;
 import java.util.Scanner;
 
 public class Ex_01 {
